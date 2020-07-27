@@ -4,5 +4,6 @@ body{
 
 header > h1{
    font-weight: bolder;
+   line-height: 25px;
 }
 
