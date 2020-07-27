@@ -17,3 +17,7 @@ h2{
    font-family: 'Yantramanav', sans-serif;
 }
 
+main > h1{
+   line-height: 25px;
+}
+
